@@ -19,5 +19,4 @@ node {
         sh "docker build -t ${IMAGE} ."
 
     }
-
 }
